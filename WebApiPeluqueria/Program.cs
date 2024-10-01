@@ -1,9 +1,12 @@
+using Microsoft.EntityFrameworkCore;
 using WebApiPeluqueria.Data.Models;
 using WebApiPeluqueria.Data.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddDbContext<ServicioDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("CadenaConexion")));
 
 builder.Services.AddScoped<IServicioRepositorio, ServicioRepositorio>();
 

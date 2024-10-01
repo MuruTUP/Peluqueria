@@ -135,3 +135,4 @@ C:\Users\usuario\source\repos\(Segundo cuatri)\Unidad 2\Actividad 2.7 peluqueria
 C:\Users\usuario\source\repos\(Segundo cuatri)\Unidad 2\Actividad 2.7 peluqueria\WebApiPeluqueria\obj\Debug\net8.0\WebApiPeluqueria.pdb
 C:\Users\usuario\source\repos\(Segundo cuatri)\Unidad 2\Actividad 2.7 peluqueria\WebApiPeluqueria\obj\Debug\net8.0\WebApiPeluqueria.genruntimeconfig.cache
 C:\Users\usuario\source\repos\(Segundo cuatri)\Unidad 2\Actividad 2.7 peluqueria\WebApiPeluqueria\obj\Debug\net8.0\ref\WebApiPeluqueria.dll
+C:\Users\usuario\source\repos\(Segundo cuatri)\Unidad 2\Actividad 2.7 peluqueria\WebApiPeluqueria\obj\Debug\net8.0\WebApiPeluqueria.sourcelink.json

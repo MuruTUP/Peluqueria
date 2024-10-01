@@ -1,0 +1,6 @@
+@WebApiPeluqueria_HostAddress = http://localhost:5193
+
+GET {{WebApiPeluqueria_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

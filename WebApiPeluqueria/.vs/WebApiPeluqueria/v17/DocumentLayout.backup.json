@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\source\\repos\\(Segundo cuatri)\\Unidad 2\\Actividad 2.7 peluqueria\\WebApiPeluqueria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C95730A7-E712-4244-AA51-39240C39F217}|WebApiPeluqueria.csproj|c:\\users\\usuario\\source\\repos\\(segundo cuatri)\\unidad 2\\actividad 2.7 peluqueria\\webapipeluqueria\\controllers\\serviciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95730A7-E712-4244-AA51-39240C39F217}|WebApiPeluqueria.csproj|solutionrelative:controllers\\serviciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95730A7-E712-4244-AA51-39240C39F217}|WebApiPeluqueria.csproj|c:\\users\\usuario\\source\\repos\\(segundo cuatri)\\unidad 2\\actividad 2.7 peluqueria\\webapipeluqueria\\data\\models\\serviciodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95730A7-E712-4244-AA51-39240C39F217}|WebApiPeluqueria.csproj|solutionrelative:data\\models\\serviciodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95730A7-E712-4244-AA51-39240C39F217}|WebApiPeluqueria.csproj|c:\\users\\usuario\\source\\repos\\(segundo cuatri)\\unidad 2\\actividad 2.7 peluqueria\\webapipeluqueria\\data\\repository\\iserviciorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95730A7-E712-4244-AA51-39240C39F217}|WebApiPeluqueria.csproj|solutionrelative:data\\repository\\iserviciorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95730A7-E712-4244-AA51-39240C39F217}|WebApiPeluqueria.csproj|c:\\users\\usuario\\source\\repos\\(segundo cuatri)\\unidad 2\\actividad 2.7 peluqueria\\webapipeluqueria\\data\\repository\\serviciorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95730A7-E712-4244-AA51-39240C39F217}|WebApiPeluqueria.csproj|solutionrelative:data\\repository\\serviciorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95730A7-E712-4244-AA51-39240C39F217}|WebApiPeluqueria.csproj|c:\\users\\usuario\\source\\repos\\(segundo cuatri)\\unidad 2\\actividad 2.7 peluqueria\\webapipeluqueria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95730A7-E712-4244-AA51-39240C39F217}|WebApiPeluqueria.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95730A7-E712-4244-AA51-39240C39F217}|WebApiPeluqueria.csproj|c:\\users\\usuario\\source\\repos\\(segundo cuatri)\\unidad 2\\actividad 2.7 peluqueria\\webapipeluqueria\\data\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95730A7-E712-4244-AA51-39240C39F217}|WebApiPeluqueria.csproj|solutionrelative:data\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 163,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServicioController.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\(Segundo cuatri)\\Unidad 2\\Actividad 2.7 peluqueria\\WebApiPeluqueria\\Controllers\\ServicioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServicioController.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\(Segundo cuatri)\\Unidad 2\\Actividad 2.7 peluqueria\\WebApiPeluqueria\\Controllers\\ServicioController.cs",
+              "RelativeToolTip": "Controllers\\ServicioController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T02:34:09.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\(Segundo cuatri)\\Unidad 2\\Actividad 2.7 peluqueria\\WebApiPeluqueria\\Data\\Models\\Servicio.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Servicio.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\(Segundo cuatri)\\Unidad 2\\Actividad 2.7 peluqueria\\WebApiPeluqueria\\Data\\Models\\Servicio.cs",
+              "RelativeToolTip": "Data\\Models\\Servicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T02:22:17.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\(Segundo cuatri)\\Unidad 2\\Actividad 2.7 peluqueria\\WebApiPeluqueria\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\(Segundo cuatri)\\Unidad 2\\Actividad 2.7 peluqueria\\WebApiPeluqueria\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T02:18:57.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\(Segundo cuatri)\\Unidad 2\\Actividad 2.7 peluqueria\\WebApiPeluqueria\\Data\\Repository\\ServicioRepositorio.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\ServicioRepositorio.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\(Segundo cuatri)\\Unidad 2\\Actividad 2.7 peluqueria\\WebApiPeluqueria\\Data\\Repository\\ServicioRepositorio.cs",
+              "RelativeToolTip": "Data\\Repository\\ServicioRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T02:16:04.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IServicioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\(Segundo cuatri)\\Unidad 2\\Actividad 2.7 peluqueria\\WebApiPeluqueria\\Data\\Repository\\IServicioRepositorio.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\IServicioRepositorio.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\(Segundo cuatri)\\Unidad 2\\Actividad 2.7 peluqueria\\WebApiPeluqueria\\Data\\Repository\\IServicioRepositorio.cs",
+              "RelativeToolTip": "Data\\Repository\\IServicioRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T02:15:23.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServicioDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\(Segundo cuatri)\\Unidad 2\\Actividad 2.7 peluqueria\\WebApiPeluqueria\\Data\\Models\\ServicioDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\ServicioDbContext.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\(Segundo cuatri)\\Unidad 2\\Actividad 2.7 peluqueria\\WebApiPeluqueria\\Data\\Models\\ServicioDbContext.cs",
+              "RelativeToolTip": "Data\\Models\\ServicioDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T02:08:06.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
